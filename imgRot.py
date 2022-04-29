@@ -1,10 +1,6 @@
 # Python3 code to rotate any image by a fixed angle
 # using 2x2 rotation matrix
 
-# Code by:
-# Danish Ahmed Mehmuda
-# U19EC111
-
 import cv2
 import numpy as np
 import math
